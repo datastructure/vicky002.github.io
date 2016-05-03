@@ -1,4 +1,4 @@
----
+﻿---
 layout: post 
 title: "Getting started with Open Source: The Ultimate guide"
 subtitle: "Trust me, it's not that hard!"
@@ -179,7 +179,6 @@ PS: You are always welcome to contribute to my projects. Check out my <a href="h
 
 If you liked this articles. Don't forget to share it with your friends. :) 
 
-Ohh <a href="https://github.com/vicky002/vicky002.github.io/blob/master/_posts/2016-05-02-getting-started-with-open-source.md" target="_blank">see a typo</a>?
 
 <div class="container">
 <div class="row">
